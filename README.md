@@ -6,6 +6,7 @@ Discover modern tools for API testing, automation, and documentation with clicka
 Inspired by the “Awesome SoapUI Alternatives” concept for developers looking for faster, smarter, and collaborative SoapUI replacements 🚀.  
 
 ---
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ## 🔥 Why Look Beyond SoapUI?
 **SoapUI** has been a go-to tool for API testing, but it can feel outdated compared to modern platforms.  
